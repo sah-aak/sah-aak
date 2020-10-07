@@ -9,6 +9,6 @@
 - ⚡ Fun fact: Always strutting around to satisfy cravings of my sweet tooth ... 😋
 
 ### Find me around the web 🌎:<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Explore my side on <a href="https://rebrand.ly/aakriti_sahrawat">my profile</a> 📹 ✍🏾
 - Being professional on <a href="https://www.linkedin.com/in/aakriti-sahrawat/">LinkedIn</a> 💼
 
