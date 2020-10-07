@@ -1,6 +1,6 @@
 ## Namaste 🙏 . I am Aakriti 
 
-<!-- src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
+<img src="https://github.com/aaksah1234/aaksah1234/blob/main/download.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 ### ✨ I am an enthusiastic undergraduate student looking for opportunities to learn, create and implement in real-world endeavors.I supplement my soft skills with content-writing, public speaking & management.I recently won Smart India Hackathon 🌟 with my team flash_unveiled for our innovation in tech-field.
 
