@@ -10,14 +10,14 @@
 - ⚡ Fun fact: Always strutting around to satisfy cravings of my sweet tooth ... 😋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaksah1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sah-aak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Find me around the web 🌎:<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 - Explore my side on <a href="https://rebrand.ly/aakriti_sahrawat">my profile</a> 📹 ✍🏾
 - Being professional on <a href="https://www.linkedin.com/in/aakriti-sahrawat/">LinkedIn</a> 💼
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaksah1234&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sah-aak&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
